@@ -37,4 +37,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    
+    You would want to make changes in a separate branch so that you can make 
+    experimental changes and not have them affect the master branch. Working
+    in a separate branch allows for more freedom of experimentation, but having
+    too many branches can get confusing.  Working in the master branch is clean 
+    and centralized, but does not allow for much freedom of experimentation.
