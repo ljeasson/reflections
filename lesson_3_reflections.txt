@@ -30,8 +30,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
+    A Groupme group would be useful for collaboration because it's available
+    on any smartphone and allows for faster response times.  The only difficulty
+    with it would be the lack of centralization with communication.
     
-
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
