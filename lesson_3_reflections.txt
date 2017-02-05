@@ -23,7 +23,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    
+    Having the last know state of the remote stored locally is useful in 
+    dealing with merge conflicts because it allows you to revert back to 
+    it as a reference.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
