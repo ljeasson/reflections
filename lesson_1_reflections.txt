@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It allowed for a side-by-side comparison which made it easier to compare the
+    two versions and find the difference(s) between them.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If there was ever a need to go back and figure out which version of a program
+    a bug originated in or to go back and test something in a previous version, 
+    version control systems would allow for that. It would make reverting back to 
+    old versions much easier than having to constantly save backups.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    With Git, you are in complete control of creating commits whereas Google docs 
+    automatically does that for you.  The benefit of using Google Docs is that
+    you never have to remember to create commits.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git was desinged mainly for programmers and, in general, programmers work with
+    projects that include multiple program files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The git log command allows you to see the entire commit history of a git project
+    and git diff allows you to see the changes made between commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because if a change does break something, it would be easy to revert back to 
+    a previous version. Also, the diff tool would make it easy to detect where the
+    error-causing lines of code are.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Mainly for programming and software development, but I would be interested 
+    in trying to use Git in game development.
+
+
+
+    
+
+    
